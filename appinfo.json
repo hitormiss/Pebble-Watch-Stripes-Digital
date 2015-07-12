@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "KEY_BAR_COLORS": 6,
+        "KEY_NUM_BARS": 5,
+        "KEY_ROTATE": 0,
+        "KEY_ROTATE_FREQUENCY": 2,
+        "KEY_STATIC_ANGLE": 1,
+        "KEY_TIME_COLOR": 10,
+        "KEY_TIME_OUTLINE_COLOR": 12,
+        "KEY_TIME_OUTLINE_WIDTH": 11
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "hitormiss",
+    "longName": "Stripes Digital",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/Folklore.otf",
+                "name": "FONT_65",
+                "trackingAdjust": 3,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Stripes Digital",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0a5ce74f-29b1-47e5-8c6b-5993959eef69",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
